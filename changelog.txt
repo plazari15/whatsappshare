@@ -1,3 +1,5 @@
+06 Jul 2015 - Versioon 2.1.0 
+	- Now Released on GitHub
 03 Jun 2015 - Version 2.1.0
 	- New Color picker
 	- Problem Solved, when don't select the button.
