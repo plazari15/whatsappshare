@@ -1,0 +1,261 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WhatsApp Share\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sun May 24 2015 10:22:51 GMT-0300 (Hora oficial do "
+"Brasil)\n"
+"POT-Revision-Date: Thu Jun 04 2015 15:09:08 GMT-0300 (Hora oficial do "
+"Brasil)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../admin/whatsapp-metabox.php:12
+msgid "WhatsApp Button Share"
+msgstr ""
+
+#: ../admin/whatsapp-metabox.php:25
+msgid ""
+"Check the option bellow to show the button in this post. If  you loose this "
+"option the button will no show."
+msgstr ""
+
+#: ../admin/whatsapp-metabox.php:27
+msgid "Show the button in this post / page "
+msgstr ""
+
+#: ../admin/whatsappconfig.php:4 ../admin/addons/home-page-button.php:37
+msgid "WhatsApp Share"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:14
+msgid "Whats App Share Config"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:15
+msgid "Setup your Plugin and button as you wish"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:62
+msgid "Show button"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:66
+msgid ""
+"This Includes posts, pages, in the posts or pages edition you´ll can select "
+"if the button will ou not be showed."
+msgstr ""
+
+#: ../admin/whatsappconfig.php:71
+msgid "Show in Content"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:75
+msgid "Select the part of the text where the button will appear"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:80 ../admin/addons/home-page-button.php:43
+msgid "Button Text"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:84
+msgid "Set the text of the button"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:89 ../admin/addons/home-page-button.php:52
+msgid "Icon Position"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:93
+msgid "Select the position of the Icon"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:98
+msgid "Icon"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:102
+msgid "Select the Icon"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:107
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:111
+msgid "Chose the Color Background. Default WhatsApp Color: #34af23"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:116 ../admin/addons/home-page-button.php:73
+msgid "Text Color"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:120
+msgid "Chose the Color of the Text."
+msgstr ""
+
+#: ../admin/whatsappconfig.php:125
+msgid "Button Style"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:129
+msgid "Select the type of the Button"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:134
+msgid "Type of Text"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:138
+msgid "Select the type of the text to the button"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:143
+msgid "Select the Font"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:147
+msgid ""
+"Select the font. If you don´t select the font, the button will get the "
+"template default"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:160
+msgid "Setup your plugin, button and other things as you wish."
+msgstr ""
+
+#: ../admin/whatsappconfig.php:183
+msgid "Before"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:184
+msgid "After"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:211
+msgid "Left"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:212
+msgid "Right"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:213
+msgid "No Text, just Icon"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:227
+msgid "Select an Option"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:228 ../admin/addons/home-page-button.php:85
+msgid "Share Icon"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:229 ../admin/addons/home-page-button.php:86
+msgid "Bullhorn"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:230 ../admin/addons/home-page-button.php:87
+msgid "Share Icon Black Box"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:231 ../admin/addons/home-page-button.php:88
+msgid "WhatsApp Icon"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:269
+#, php-format
+msgid "50% of the content"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:270
+msgid "50% and rounded corners"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:271
+#, php-format
+msgid "100% of the content"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:272
+msgid "100% and rounded corners"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:273
+msgid "10% Just for Icon "
+msgstr ""
+
+#: ../admin/whatsappconfig.php:274
+msgid "10% Just for Icon and circle"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:287
+msgid "Text in capital letters"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:288
+msgid "Text not in capital letters"
+msgstr ""
+
+#: ../admin/whatsappconfig.php:304
+msgid "Use Theme Default"
+msgstr ""
+
+#: ../admin/addons/home-page-button.php:31
+msgid "WhatsApp Share Button"
+msgstr ""
+
+#: ../admin/addons/home-page-button.php:32
+msgid "Show the WhatsApp Button in the page with Visual Composer"
+msgstr ""
+
+#: ../admin/addons/home-page-button.php:46
+msgid "Set a text for the button"
+msgstr ""
+
+#: ../admin/addons/home-page-button.php:58 ../admin/addons/home-page-button.php:90
+msgid "Select the Position of The Icon"
+msgstr ""
+
+#: ../admin/addons/home-page-button.php:64
+msgid "Button Color"
+msgstr ""
+
+#: ../admin/addons/home-page-button.php:67
+msgid "Select the color of the Button"
+msgstr ""
+
+#: ../admin/addons/home-page-button.php:76
+msgid "Select the color of the Text"
+msgstr ""
+
+#: ../admin/addons/home-page-button.php:82
+msgid "Button Icon"
+msgstr ""
+
+#: ../admin/addons/home-page-button.php:102
+msgid "Share on WhatsApp"
+msgstr ""
+
+#: ../admin/addons/home-page-button.php:150
+msgid ""
+"We realize that you do not have Visual Composer. This plugin has some unique "
+"features to the Visual Composer."
+msgstr ""

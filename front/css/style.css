@@ -1,0 +1,50 @@
+/*
+*Style Name: WhatsApp Share Plugin
+*/
+.100{
+    width: 96%;
+}
+.50{
+    width: 48%;
+}
+.uppercase-bt{text-transform: uppercase;}
+.bt-whats{
+        padding: 2%;
+        text-align: center;
+        background-color: #34af23;
+        color: #fff;
+        font-size: 1em;
+        letter-spacing: 4px;
+         display: none; 
+        font-weight: normal;
+         text-decoration: none!important;
+        }
+.bt-whats a{
+ color: #fff;
+ text-decoration: none!important;
+ border: 0px!important;
+}
+
+.bt-whats a:hover{
+ color: #fff;
+ text-decoration: none;
+ border: 0px!important;
+}
+
+.Radius{
+    border-radius: 10px;
+}
+
+.clearWhats{
+    margin-top: 8%;
+}
+
+.clearWhatsB{
+    margin-bottom: 8%;
+}
+
+ @media  screen and (max-width: 480px){
+ .bt-whats {
+  display: block!important; 
+ } 
+}
